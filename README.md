@@ -1,28 +1,38 @@
 # Ex-07-Feature-Selection
-## AIM
+# AIM
 
 To Perform the various feature selection techniques on a dataset and save the data to a file.
-## Explanation
+
+# DATE:
+
+GITHUB LINK:
+
+COLAB LINK:https://colab.research.google.com/drive/1iEMOKpVnvyCr77wgmBa6akPaQ1CtPM-e
+
+# Explanation
 
 Feature selection is to find the best set of features that allows one to build useful models. Selecting the best features helps the model to perform well.
-## ALGORITHM
-### STEP 1
+# ALGORITHM
+## STEP 1
 
 Read the given Data
-### STEP 2
+## STEP 2
 
 Clean the Data Set using Data Cleaning Process
-### STEP 3
+## STEP 3
 
 Apply Feature selection techniques to all the features of the data set
-### STEP 4
+## STEP 4
 
 Save the data to the file
-## CODE-Done for "titanic_dataset.csv"
-```python
-Developed By: VISHWAPRIYA G
-Reg.No: 212221220061
 
+# CODE-
+
+DEVELOPED BY: VISWA PRIYA G
+REGISTER NUMBER: 212221220061
+
+Done for "titanic_dataset.csv"
+```
 #loading dataset
 import pandas as pd
 import numpy as np
@@ -203,7 +213,7 @@ imp_coef.plot(kind = "barh")
 plt.title("Feature importance using Lasso Model")
 plt.show()
 ```
-## OUPUT
+# OUPUT
 Data Preprocessing before Feature Selection:
 ## Initial Dataset:
 ![image](https://user-images.githubusercontent.com/121285701/234180098-8f62791d-1eb3-432d-a15b-d3dc3d39ac5b.png)
@@ -250,6 +260,6 @@ Embedded methods are iterative in a sense that takes care of each iteration of t
 
 ![image](https://user-images.githubusercontent.com/121285701/234181405-29fe4b22-001c-4ed5-a4a3-858cabb77027.png)
 
-## RESULT:
+# RESULT:
 
 Thus, the various feature selection techniques have been performed on a given dataset successfully.
