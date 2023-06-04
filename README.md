@@ -5,7 +5,7 @@ To Perform the various feature selection techniques on a dataset and save the da
 
 # DATE:
 
-GITHUB LINK:
+GITHUB LINK:https://github.com/viswapriyaG/Ex-07-Feature-Selection.git
 
 COLAB LINK:https://colab.research.google.com/drive/1iEMOKpVnvyCr77wgmBa6akPaQ1CtPM-e
 
@@ -29,6 +29,7 @@ Save the data to the file
 # CODE-
 
 DEVELOPED BY: VISWA PRIYA G
+
 REGISTER NUMBER: 212221220061
 
 Done for "titanic_dataset.csv"
